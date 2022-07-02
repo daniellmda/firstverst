@@ -25,7 +25,7 @@ div, p, input, button, form, span, a, ul, li {
     background: -ms-linear-gradient(-45deg, rgba(77,189,254,1) 0%, rgba(55,144,217,1) 100%);
     background: linear-gradient(135deg, rgba(77,189,254,1) 0%, rgba(55,144,217,1) 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dbdfe', endColorstr='#3790d9', GradientType=1 );
-    padding-top: 100px;
+    padding-top: 60px;
     color: #fff;
     padding-bottom: 140px;
 }
@@ -106,26 +106,29 @@ p {
 .contact {
     background: #ecf3f8;
     padding-top: 110px;
-    padding-bottom: 100px;
+
 }
 .form {
-    margin-top: 65px;
-    text-align: center;
+    padding-top: 65px;
+    height: 550px;
 }
 .input {
     width: 345px;
     border: 1px solid #bbbbbb;
     font-size: 15px;
+    margin: 0 auto;
     font-family: 'Ubuntu', sans-serif;
     border-radius: 5px;
     height: 48px;
     padding-left: 25px;
     margin-bottom: 15px;
+    display: block;
 }
 .button-form {
     border: 0;
     cursor: pointer;
     margin: 0 auto;
+    width: 345px;
 }
 .footer {
     padding: 65px 0;

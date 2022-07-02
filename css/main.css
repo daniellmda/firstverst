@@ -27,7 +27,7 @@ div, p, input, button, form, span, a, ul, li {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4dbdfe', endColorstr='#3790d9', GradientType=1 );
     padding-top: 60px;
     color: #fff;
-    padding-bottom: 140px;
+    padding-bottom: 90px;
 }
 .wrapper {
     display: flex;

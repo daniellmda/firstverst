@@ -110,7 +110,7 @@ p {
 }
 .form {
     padding-top: 65px;
-    height: 550px;
+    padding-bottom: 100px;
 }
 .input {
     width: 345px;

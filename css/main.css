@@ -32,9 +32,7 @@ div, p, input, button, form, span, a, ul, li {
 .wrapper {
     display: flex;
     justify-content: space-between;
-}
-.offer {
-margin-top: 155px;
+    align-items: center;
 }
 .title {
     font-size: 37px;

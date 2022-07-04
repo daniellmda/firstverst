@@ -154,8 +154,8 @@ p {
     }
     .desktop {
         display: block;
-        width: 549px;
-        margin: 72px auto 0;
+        width: 661px;
+        margin: 45px auto 0;
     }
     .futures {
         flex-direction: column;
